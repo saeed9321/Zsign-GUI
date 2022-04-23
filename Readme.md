@@ -1,3 +1,3 @@
 # Zsign GUI MacOS App
 
-![Screenshot] (example.png)
+![Screenshot](example.png)
